@@ -1,0 +1,7 @@
+D:\C#\конус\конус\bin\Debug\конус.exe.config
+D:\C#\конус\конус\bin\Debug\конус.exe
+D:\C#\конус\конус\bin\Debug\конус.pdb
+D:\C#\конус\конус\obj\Debug\конус.csprojAssemblyReference.cache
+D:\C#\конус\конус\obj\Debug\конус.csproj.CoreCompileInputs.cache
+D:\C#\конус\конус\obj\Debug\конус.exe
+D:\C#\конус\конус\obj\Debug\конус.pdb
